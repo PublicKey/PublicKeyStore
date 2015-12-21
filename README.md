@@ -6,7 +6,7 @@ Maven:
 <dependency>
   <groupId>org.java.security</groupId>
   <artifactId>public-key-store</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
